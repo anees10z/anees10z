@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me -> insta_id : (anees__as10)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: A wolf never comes back                 without completing his                  hunt.
 
 <!---
 anees10z/anees10z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
