@@ -25,10 +25,4 @@
     />
   </a>
 </p>
-## 📂
-  <!-- Pinned repo card -->
- <p> 
-  <a href="https://github.com/anees10z/Leet-Code" text-decoration="none">
-    LeetCode Solutions Repo
-  </a>
-</p>
+
