@@ -26,13 +26,13 @@
   </a>
 </p>
 
-## 📂 LeetCode Solutions Repo (via LeetHub)
+## 📂 LeetCode Solutions Repo
 
-<p align="center">
+<p>
   <!-- Pinned repo card -->
   <a href="https://github.com/anees10z/Leet-Code">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=anees10z&repo=Leet-Code&theme=radical&border_radius=10"
+      src="[https://github-readme-stats.vercel.app/api/pin/?username=anees10z&repo=Leet-Code&theme=radical&border_radius=10](https://leetcode.com/static/images/LeetCode_logo_rvs.png)"
       alt="LeetCode Solutions Repo"
     />
   </a>
