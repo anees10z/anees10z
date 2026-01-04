@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hii, I am Md Anees Khan<br>🌱 I’m currently learning Web Development<br>⚡ Fun fact: A wolf never comes back without completing his hunt.
-
+👋 Hii, I am Md Anees Khan<br>🌱 I’m currently learning Web Development<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anees__as10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanmdanis145@gmail.com) 
