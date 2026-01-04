@@ -13,3 +13,29 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anees10z&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🧠 LeetCode Progress (Live)
+
+<!-- LeetCode live stats card -->
+<p align="center">
+  <a href="https://leetcode.com/khanmdanis145/">
+    <img
+      src="https://leetcard.jacoblin.cool/khanmdanis145?theme=dark&font=baloo&ext=activity&border=0&radius=10"
+      alt="LeetCode Stats"
+    />
+  </a>
+</p>
+
+## 📂 LeetCode Solutions Repo (via LeetHub)
+
+<p align="center">
+  <!-- Pinned repo card -->
+  <a href="https://github.com/anees10z/Leet-Code">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=anees10z&repo=Leet-Code&theme=radical&border_radius=10"
+      alt="LeetCode Solutions Repo"
+    />
+  </a>
+</p>
+
+
